@@ -1,9 +1,7 @@
 ---
 layout: post
-title: MicroCorruption New Orleans Tutorial
+title: MicroCorruption New Orleans Walkthrough
 ---
-
-# Microcorruption New Orleans walkthrough
 
 Welcome, to Microcorruption. If you're reading this, you're either very, very lost, or have an interest in reverse-engineering and hacking. Microcorruption is a series of challenges that task you with opening a virtual door, by exploiting vulnerabilities in the code of a smart lock. If you can get through all of the challenges, you'll have a good understanding of how programs are executed at their lowest level, how bad programming practices can be exploited, and how buffer-overflows (and other exploitation techniques) work. 
 
